@@ -834,4 +834,4 @@ class GeneticBinPacker():
                 iteration += 1
 
     # Import the plotter functions
-    from plotter import plot_individual, plot_best_individual, plot_population, plot_history
+    from .plotter import plot_individual, plot_best_individual, plot_population, plot_history
